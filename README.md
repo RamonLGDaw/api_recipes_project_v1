@@ -35,6 +35,8 @@ Each recipe includes:
 
 The database is hosted on **MongoDB Atlas**, and the backend is deployed on **Render**.
 
+**The project follows NestJS best practices with a modular architecture and DTO-based validation.**
+
 ---
 
 ## 🛠️ Tech Stack
